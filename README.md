@@ -569,3 +569,4 @@ Yes, but they are **not accessible directly**.
 Private members are inherited but can't be accessed by name in the derived class. You must use base class public/protected functions to manipulate them.
 
 ---
+## Any Questions Fee free to DM.
