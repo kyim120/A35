@@ -4,17 +4,6 @@ This document explains essential C++ OOP (Object-Oriented Programming) topics in
 
 ---
 
-## 📚 Table of Contents
-
-1. [Polymorphism](#polymorphism)
-2. [Aggregation](#aggregation)
-3. [Association](#association)
-4. [Composition](#composition)
-5. [Friend Class and Friend Function](#friend-class-and-friend-function)
-6. [Inheritance](#inheritance)
-
----
-
 ### 🔁 **Polymorphism**
 
 ---
