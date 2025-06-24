@@ -1,3 +1,19 @@
+# C++ Object-Oriented Programming Concepts
+
+This document explains essential C++ OOP (Object-Oriented Programming) topics in detail, including Polymorphism, Aggregation, Association, Composition, Friend Class & Function, and Inheritance.
+
+---
+
+## 📚 Table of Contents
+
+1. [Polymorphism](#1-polymorphism)
+2. [Aggregation](#2-aggregation)
+3. [Association](#3-association)
+4. [Composition](#4-composition)
+5. [Friend Class and Friend Function](#5-friend-class-and-friend-function)
+6. [Inheritance](#6-inheritance)
+
+---
 
 ### 🔁 **Polymorphism**
 
